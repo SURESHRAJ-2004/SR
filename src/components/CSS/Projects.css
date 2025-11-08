@@ -25,7 +25,6 @@
   background-color: var(--third-color);
   border-radius: 0.3rem;
   padding-bottom: 16px;
-  /* margin-top: 16px; */
   margin-bottom: 16px;
 }
 
@@ -60,14 +59,6 @@ a.btn-maintenence {
   padding: 6px 8px 6px 8px;
   border-radius: 0.3rem;
   font-size: 14px;
-
-}
-
-a.btn-website:hover,
-a.btn-github:hover,
-a.btn-maintenence {
-  background-color: var(--five-color);
-  color: var(--six-color);
 }
 
 a.btn-maintenence {
@@ -108,39 +99,29 @@ span#tech-stack {
   padding: 4px 8px 4px 8px;
   border-radius: 0.3rem;
 }
+
 #portfolio {
   height: 100vh;
   overflow: scroll;
   padding: 10vh 0px;
 }
+
 .imgsec {
-  height: 40vh;
+  height: 23vh;
   margin-bottom: 5vh;
   overflow: hidden;
-
   position: relative;
 }
-.imgsec:hover img {
-  animation: portfolioani 7s linear;
-}
-.imgsec:hover {
-  transform: scale(0.95);
-  transition: 1s ease;
-}
+
+/* 🔥 Hover animations removed – cleaned */
+
 .project-card img .dif-image-project {
   width: 100px;
   height: 40vh;
 }
+
 .custom-margin-bottom {
   margin-bottom: 50px;
-}
-@keyframes portfolioani {
-  0% {
-    transform: translateY(0%);
-  }
-  100% {
-    transform: translateY(-100%);
-  }
 }
 
 @media (max-width: 1200px) {
@@ -166,13 +147,9 @@ span#tech-stack {
   .projects-title h4 {
     font-size: 16px;
   }
-
-
 }
 
 @media (max-width: 576px) {
-
-
   .project-card img {
     width: 300px !important;
   }

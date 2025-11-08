@@ -28,7 +28,7 @@ function Contact() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Thoriq AS - Contact</title>
+          <title>Contact</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="contact-wrapper">
@@ -47,8 +47,8 @@ function Contact() {
                     <AiOutlineMail />
                     &nbsp;&nbsp;Email
                   </h3>
-                  <p>muhthoriqas1719@gmail.com</p>
-                  <CopyToClipboard text="muhthoriqas1719@gmail.com">
+                  <p>sureshraj6804@gmail.com</p>
+                  <CopyToClipboard text="sureshraj6804@gmail.com">
                     <button className="btn-copy" onClick={actionCopy}>
                       {alreadyCopy}&nbsp;&nbsp;
                       <FiCopy />
@@ -62,9 +62,9 @@ function Contact() {
                     <AiFillLinkedin />
                     &nbsp;&nbsp;Linkedin
                   </h3>
-                  <p>Muhammad Thoriq Ali Said</p>
+                  <p>Suresh Raj - SR</p>
                   <a
-                    href="https://www.linkedin.com/in/thoriqas/"
+                    href="https://www.linkedin.com/in/sureshraj-sr/"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"
@@ -80,9 +80,9 @@ function Contact() {
                     <AiFillGithub />
                     &nbsp;&nbsp;GitHub
                   </h3>
-                  <p>ThoriqAS</p>
+                  <p>SURESHRAJ-2004</p>
                   <a
-                    href="https://github.com/Muhthoriqas"
+                    href="https://github.com/SURESHRAJ-2004"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"
@@ -98,9 +98,9 @@ function Contact() {
                     <AiFillInstagram />
                     &nbsp;&nbsp;Instagram
                   </h3>
-                  <p>mthoriq_as</p>
+                  <p>sureshraj_dev</p>
                   <a
-                    href="https://www.instagram.com/mthoriq_as/"
+                    href="https://www.instagram.com/sureshraj_dev?igsh=MWhtZjduYTllbHh4NA=="
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"

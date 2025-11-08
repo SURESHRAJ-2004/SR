@@ -25,18 +25,18 @@ function Home() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Thoriq AS - Home</title>
+          <title>SURESH RAJ - Portfolio </title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="home-wrapper">
         <div className="home-left animate__animated animate__fadeInLeft">
           <h3>
-            Hi there <img width="35" src={Hi} alt="Hi" />, my name is
+            Hi there <img width="35" src={Hi} alt="Hi" />, I'm
           </h3>
           <h2>
-            <span className="name-hover">Muhammad</span>
+            <span className="name-hover">Suresh Raj</span>
             <br />
-            <span className="name-hover">Thoriq Ali Said</span>
+            <span className="name-hover"></span>
           </h2>
           <NavLink to="/contact" className="btn-download text-center">
             Let's Connect

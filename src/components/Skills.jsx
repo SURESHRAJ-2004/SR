@@ -8,7 +8,7 @@ function Skills() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Thoriq AS - Skills</title>
+          <title>Skills</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="skills-wrapper">
@@ -33,7 +33,7 @@ function Skills() {
                 className="devicon-javascript-plain colored"
                 title="JavaScript"
               ></i>
-              <i className="devicon-php-plain colored" title="PHP"></i>
+              <i className="devicon-nodejs-plain colored" title="PHP"></i>
             </div>
           </div>
           <div className="row my-4 animate__animated animate__flipInX animate_slow">
@@ -64,36 +64,21 @@ function Skills() {
                 title="Mongodb"
               ></i>
               <i
-                className="devicon-laravel-plain-wordmark colored"
-                title="Laravel"
+                className="devicon-java-plain-wordmark colored"
+                title="Java"
               ></i>
               <i
                 className="devicon-express-original-wordmark colored"
                 title="Express.js"
               ></i>
               <i
-                class="devicon-firebase-plain-wordmark colored"
+                class="devicon-python-plain-wordmark colored"
                 title="Firebase"
               ></i>
             </div>
           </div>
           <div className="row my-4 animate__animated animate__flipInX animate_slow">
-            <div className="col">
-              <i
-                class="devicon-nodejs-plain-wordmark colored"
-                title="Node.js"
-              ></i>
-
-              <i className="devicon-sass-original colored" title="Sass"></i>
-              <i
-                class="devicon-nextjs-original-wordmark colored"
-                title="Next.js"
-              ></i>
-              <i
-                class="devicon-docker-plain-wordmark colored"
-                title="Docker"
-              ></i>
-            </div>
+        
           </div>
         </div>
       </Container>

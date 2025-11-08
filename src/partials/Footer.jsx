@@ -6,11 +6,11 @@ function Footer() {
     <>
       <footer className="px-4">
         <div className="foot-left d-flex">
-          <p>Muhammad Thoriq Ali Said &copy; 2023</p>
+          <p>Suresh Raj Dev &copy; 2025</p>
         </div>
         <div className="foot-right d-flex">
           <a
-            href="https://github.com/Muhthoriqas"
+            href="https://github.com/SURESHRAJ-2004"
             target="_blank"
             rel="noreferrer"
           >
@@ -18,7 +18,7 @@ function Footer() {
             &nbsp;&nbsp;GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/thoriqas/"
+            href="https://www.linkedin.com/in/sureshraj-sr/"
             target="_blank"
             rel="noreferrer"
           >
@@ -26,7 +26,7 @@ function Footer() {
             &nbsp;&nbsp;Linkedin
           </a>
           <a
-            href="https://www.instagram.com/mthoriq_as/"
+            href="https://www.instagram.com/sureshraj_dev?igsh=MWhtZjduYTllbHh4NA=="
             target="_blank"
             rel="noreferrer"
           >

@@ -22,7 +22,7 @@ function About() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Thoriq AS - About</title>
+          <title>About</title>
         </Helmet>
       </HelmetProvider>
       <FsLightbox
@@ -39,13 +39,7 @@ function About() {
         </div>
         <div className="about-right animate__animated animate__fadeIn animate__slower py-3">
           <p>
-            Hi, I'm Muh Thoriq AS, a student studying Information Systems at
-            Hasanuddin University. I have a strong interest in web programming
-            and cloud computing. Specifically, I use a combination of
-            technologies called the MERN stack (MongoDB, Express.js, React.js,
-            Node.js), and I am also knowledgeable in cloud computing using
-            Google Cloud Platform (GCP), which allows me to create, manage, and
-            deploy dynamic, interactive, and secure web applications.
+           Enthusiastic Java and MERN Stack Developer with hands-on internship experience in web application development. Skilled in Java, Node.js, Express.js, React, and databases. Strong understanding of RESTful APIs, responsive UI design, and building scalable, user-focused applications. Holds a Bachelor of Commerce in Computer Applications with a solid foundation in programming, database concepts, and software development principles.
           </p>
 
           <h4>Certificates</h4>
